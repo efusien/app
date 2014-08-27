@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/efusien/app",
+  "authors": [
+    "Jérémie BRYON <jeremie.bryong@mail.com>"
+  ],
+  "description": "test app",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.23"
+  }
+}
