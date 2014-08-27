@@ -1,4 +1,4 @@
-test
+My App
 ====
 
-This if for all my tests
+This if for testing
