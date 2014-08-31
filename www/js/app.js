@@ -1,9 +1,7 @@
 var myApp = angular.module('myApp', [
-    'ngRoute',
-    'ngAnimate',
-    'myAppControllers'
+    'ionic'
 ]);
-
+/*
 myApp.config(['$routeProvider',
     function ($routeProvider) {
         $routeProvider.
@@ -19,3 +17,4 @@ myApp.config(['$routeProvider',
                 redirectTo: '/'
             });
     }]);
+*/
